@@ -3,6 +3,7 @@ package ver2.copy;
 public class Account {
 	// Instance variable, only available inside this class.
 		private double balance;
+// chicken sandwich.
 
 		private String name;
 		
